@@ -3,7 +3,7 @@ export class Dish{
     name:string;
     image:string;
     category:string;
-    feature: boolean;
+    featured: boolean;
     label:string;
     price:string;
     description:string;
