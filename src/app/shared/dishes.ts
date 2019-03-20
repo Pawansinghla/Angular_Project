@@ -1,6 +1,6 @@
-import {Dish} from './dish';
+import { Dish } from './dish';
 
- export const DISHES: Dish[]=[
+export const DISHES: Dish[] = [
     {
         id: '0',
         name: 'Uthappizza',
@@ -168,4 +168,6 @@ import {Dish} from './dish';
                 author: '25 Cent',
                 date: '2011-12-02T17:57:28.556094Z'
             }
-        ];
+        ]
+    }
+];
